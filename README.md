@@ -17,7 +17,7 @@ Execute the program
 ```<!DOCTYPE html>
 <html>
 <body>
-		<IMG src="C:\chemistry record\logo.png" 
+		<IMG src="C:\Games\logo.png" 
 	height="100" width="1000" align="center" border="4">
 <table border="1" cellspacing="0">
 <th colspan="14">
@@ -83,4 +83,4 @@ Execute the program
 ```
 
 # OUPUT
-!['output'](/a5859786-d054-4a47-bd78-93e5b4bd2943.jpeg)
+!['output'](/output.jpeg)
