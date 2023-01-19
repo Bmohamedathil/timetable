@@ -84,3 +84,5 @@ Execute the program
 
 # OUPUT
 !['output'](/output.jpeg)
+##  Result:
+The timetable is displayed successfull
